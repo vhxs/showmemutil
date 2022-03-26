@@ -5,6 +5,7 @@ description = "Show memory utilization in the terminal (sort of like htop)"
 authors = ["Vikram Saraph <vikram.saraph.22@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/vhxs/showmemutil"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
