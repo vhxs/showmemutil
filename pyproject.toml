@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "showmemutil"
-version = "0.1.0"
+version = "0.1.1"
 description = "Show memory utilization in the terminal (sort of like htop)"
 authors = ["Vikram Saraph <vikram.saraph.22@gmail.com>"]
 license = "MIT"
